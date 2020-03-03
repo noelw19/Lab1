@@ -15,4 +15,6 @@
 
  6. nested functions are functions that are placed within a function, and if variables are defined within the parent function they are able to be called from the child function because it is still considered local.
 
- 
+ Overall I feel like I am slowly getting the hang of the basics, learning from others as well as on my own, and i am having fun as I go along, although a few things still confuse me i am sure within the next few weeks I will have hopefully overcome these obsticles.
+
+ During the second class for this week myself and dale found we had an issue with calling nested functions, and i found out that it was because I realised that "console.log()" is simply a command and by using "return myInnerFunction" it will run that function in turn running the command that was placed within it and finally displaying the results that are required, which is this case was the string "I am local".
