@@ -1,4 +1,4 @@
-/*var numOne = 500;
+var numOne = 500;
 var numTwo = 600;
 var numThree = 700;
 var numFour = 800;
@@ -6,7 +6,7 @@ var sum;
 
 sum = (numOne + (numFour - numThree));
 
-console.log("sum = " + sum);*/
+console.log("sum = " + sum);
 
 //scope and nested functions example 1:
 //accessing local variable in outer function from inner function
